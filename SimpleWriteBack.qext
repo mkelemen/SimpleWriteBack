@@ -3,7 +3,7 @@
 	"description" : "SimpleWriteBack",
 	"icon" : "table",
 	"type" : "visualization",
-	"version": "0.0.1",
+	"version": "0.1",
 	"author": "Matus Kelemen",
 	"homepage" : "",
 	"keywords" : "qlik-sense, visualization",
